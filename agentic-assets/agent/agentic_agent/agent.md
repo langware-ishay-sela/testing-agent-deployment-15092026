@@ -13,6 +13,6 @@ intro: ''
 auto_launch: false
 auto_launch_prompt: ''
 title: agent
+version: 2
 ---
-
-
+reply
