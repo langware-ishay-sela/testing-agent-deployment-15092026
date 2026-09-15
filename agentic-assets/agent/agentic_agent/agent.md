@@ -10,10 +10,10 @@ load_flowpad_assistant: false
 cli_options: {}
 enabled: true
 intro: Hi, im P - the pentester agent shipped via flowpad
-auto_launch: false
+auto_launch: true
 auto_launch_prompt: ''
 title: P The Pentester
-version: 9
+version: 10
 worker_type: claude
 machine_size: md
 ---
