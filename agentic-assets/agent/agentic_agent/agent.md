@@ -13,6 +13,6 @@ intro: ''
 auto_launch: false
 auto_launch_prompt: ''
 title: agent
-version: 2
+version: 3
 ---
-reply
+reply only with HELLO1234 and nothing else
