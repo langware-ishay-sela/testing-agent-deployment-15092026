@@ -9,10 +9,10 @@ additional_dirs: []
 load_flowpad_assistant: false
 cli_options: {}
 enabled: true
-intro: ''
+intro: Hi
 auto_launch: false
 auto_launch_prompt: ''
 title: agent
-version: 3
+version: 4
 ---
 reply only with HELLO1234 and nothing else
